@@ -1,8 +1,4 @@
-Sure! Here's a `README.md` file that clearly explains the purpose, usage, limitations, and functionality of your password-cracking script:
 
----
-
-````markdown
 # 🔐 Password Cracker (Brute Force Demo)
 
 This is a simple Python script that demonstrates a **brute force password cracking technique** using random guesses. It continuously generates random character combinations until it matches the user-provided password.
