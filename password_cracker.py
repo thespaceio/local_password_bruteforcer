@@ -1,4 +1,4 @@
-# This is a code that cracks a password. It gives you the
+# This is a basic code that cracks a password
 
 import string
 import random
@@ -16,4 +16,5 @@ print("Password: " + password)
 
 
 # Note this code takes a lot of time to run, it goes over all the possible addition of characters just to find the
+
 # password that has been entered
