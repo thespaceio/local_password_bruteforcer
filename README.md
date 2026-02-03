@@ -1,5 +1,6 @@
 
-# 🔐 Password Cracker (Brute Force Demo)
+# 🔐 Basic Password Cracker (Brute Force Demo)
+### Note: This is for educational usage 
 
 This is a simple Python script that demonstrates a **brute force password cracking technique** using random guesses. It continuously generates random character combinations until it matches the user-provided password.
 
