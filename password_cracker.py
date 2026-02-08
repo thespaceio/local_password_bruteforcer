@@ -14,7 +14,6 @@ while guess != password:            # while our parameter is not equal to the pa
     print(guess)
 print("Password: " + password)
 
-
 # Note this code takes a lot of time to run, it goes over all the possible addition of characters just to find the
 
 # password that has been entered
